@@ -45,6 +45,6 @@ The goal of the Deutsch-Jozsa algorithm is to efficiently determine whether the 
 
 # References
 
-> [Qiskit documentation Quantum query algorithms ](https://learn.qiskit.org/course/algorithms/query-algorithms)
+> [Qiskit documentation Quantum query algorithms ]([https://learn.qiskit.org/course/algorithms/query-algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms))
 >    
 > [introduction to classical and quantum computing-book](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
